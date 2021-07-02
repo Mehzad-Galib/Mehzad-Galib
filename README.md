@@ -1,21 +1,14 @@
-### Hi there 👋
 
 
-**Mehzad-Galib/Mehzad-Galib**
-
-# Hi there, I'm Mehzad Galib - aka [Rajjo][website] 👋
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mehzad-galib-portfolio.netlify.app/)
+# Hi there, **I'm Mehzad Galib** - aka [Rajjo][https://mehzad-galib-portfolio.netlify.app] 👋
 
 
-## I'm a Student, and Full Stack Developer!!
+## A fresher in Web Development who is looking for challenging yet rewarding career with a progressive organization. Always seeking new technologies and enjoying working as a team.
 
-- 🔭 I’m currently working on Tailwind CSS
-- 🌱 I’m currently learning Next JS 
-- 👯 I’m looking to collaborate on Nothing
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Connect with me:
+- ✉️ m.galib.rajjo15@gmail.com
+- 📴: +880 1916898722
+- [LinkedIn](www.linkedin.com/in/mehzad-galib)
+
+
 
