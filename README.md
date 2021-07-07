@@ -1,8 +1,8 @@
 
 
 <h1 align="center">Hello, This is Mehzad Galib 👋</h1>
-<h3 align="center">A Dedicated Full Stack Developer from Rajshahi, Bangladesh!</h3> 
 
+## A Dedicated Full Stack Developer from Rajshahi, Bangladesh!
 
 ## A fresher in Web Development who is looking for challenging yet rewarding career with a progressive organization. Always seeking new technologies and enjoying working as a team.
 
