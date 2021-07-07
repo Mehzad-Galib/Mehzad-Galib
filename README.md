@@ -56,7 +56,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehzad-Galib&show_icons=true&locale=en&layout=compact" alt="ajauntor" /></p>
 <br>
   
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mehzad-Galib&show_icons=true&locale=en" alt="Mehzad-Galib" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehzad-Galib&" alt="Mehzad-Galib" /></p>
   
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mehzad-Galib&show_icons=true&theme=dracula)" alt="Mehzad-Galib" /></p>
   
-  
+
   
