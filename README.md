@@ -51,7 +51,7 @@
   </p>
   
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehzad-Galib&show_icons=true&locale=en&layout=compact" alt="ajauntor" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehzad-Galib&show_icons=true&locale=en&layout=compact&theme=radical" alt="ajauntor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehzad-Galib&theme=cobalt" alt="Mehzad-Galib" /></p>
   
