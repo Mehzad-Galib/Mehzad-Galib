@@ -52,7 +52,9 @@
   <a href="https://www.heroku.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="git" width="40" height="40"/> </a>
   </p>
   
-  
+  <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehzad-Galib&show_icons=true&locale=en&layout=compact" alt="ajauntor" /></p>
+<br>
   
   
   
