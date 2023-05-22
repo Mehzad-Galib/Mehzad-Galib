@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Django, Fast API, GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://mehzad-galib-portfolio.netlify.app/](https://mehzad-galib-portfolio.netlify.app/)
+- 👨‍💻 Let me show you my [Portfolio](https://mehzad-galib-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://www-mehzadgalib.medium.com/](https://www-mehzadgalib.medium.com/)
+- 📝 I regularly write articles on [Medium](https://www-mehzadgalib.medium.com/)
 
 - 📫 How to reach me **m.galib.rajjo15@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AE4rBwNQy_RruvUCK6fizYG5hUXZnNvE/view?usp=share_link](https://drive.google.com/file/d/1AE4rBwNQy_RruvUCK6fizYG5hUXZnNvE/view?usp=share_link)
+- 📄 Have a look at my [Resume](https://drive.google.com/file/d/1AE4rBwNQy_RruvUCK6fizYG5hUXZnNvE/view?usp=share_link)
 
 - ⚡ Fun fact **I am enthusiastic and passionate about outdoor sports and PC gaming**
 
