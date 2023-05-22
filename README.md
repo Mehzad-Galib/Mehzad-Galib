@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehzad-galib&label=Profile%20views&color=0e75b6&style=flat" alt="mehzad-galib" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehzad-galib" alt="mehzad-galib" /></a> </p>
-
 - 🔭 I’m currently working on **Backend Development**
 
 - 🌱 I’m currently learning **Django, Fast API, GraphQL**
