@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mehzad Galib</h1>
-<h3 align="center">A Junior Programmer and Back End Developer from Rajshahi, Bangladesh! looking for challenging yet rewarding career with a progressive organization. Always seeking new technologies and enjoying working as a team.</h3>
+<h3 align="center">A Data Analyst and BUET CSE MSc Student from Dhaka, Bangladesh! looking for challenging yet rewarding career with a progressive organization. Always seeking new technologies and enjoying working as a team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehzad-galib&label=Profile%20views&color=0e75b6&style=flat" alt="mehzad-galib" /> </p>
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Django, Fast API, GraphQL**
+- 🌱 I’m currently learning **AI, Machine Learning**
 
 - 👨‍💻 Let me show you my [Portfolio](https://mehzad-galib-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [Medium](https://www-mehzadgalib.medium.com/)
 
 - 📫 How to reach me **m.galib.rajjo15@gmail.com**
-
-- 📄 Have a look at my [Resume](https://drive.google.com/file/d/1AE4rBwNQy_RruvUCK6fizYG5hUXZnNvE/view?usp=share_link)
 
 - ⚡ Fun fact **I am enthusiastic and passionate about outdoor sports and PC gaming**
 
